@@ -6,7 +6,7 @@ on:
       miasto:
         description: "Miasto"
         required: true
-        default: "Szczecin"
+        default: "Torun"
 
 jobs:
   pogoda_dla_miast:
